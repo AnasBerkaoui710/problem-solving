@@ -10,7 +10,7 @@ for (let i = 0; i < array.length; i++) {
         }
     }
     if (compte % 2 != 0) {
-        console.log("Le nombre impair est :", array[i])
+        console.log("Le nombre est :", array[i])
         break 
     }
 }
